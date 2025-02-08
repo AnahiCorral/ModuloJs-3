@@ -1,4 +1,4 @@
-//imprimimr el valor
+//imprimir el valor
 console.log('Hola mundo');
 
 
