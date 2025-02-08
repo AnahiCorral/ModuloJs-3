@@ -16,4 +16,5 @@ Esta clase se enfoco en cocnocer sobre los lenguajes de programacion y java scri
 
 # 📚 Clase2: Tipos de dato🚀
 vimos sobre los tipos de datos en js mas a detalle y metodos que nos ayudaran a realizar acciones especificas, ademas de realizar practica con las estructuras de datos y condiciones, haciendo uso de los dintintos operadores, se resolvieron algunos ejercicios.
-![image](https://github.com/user-attachments/assets/0f3c2dd3-ba61-4fa6-a91f-4668c09bd484)
+![image](https://github.com/user-attachments/assets/523e90f2-b8f7-40f6-817b-0b624927b4de)
+
