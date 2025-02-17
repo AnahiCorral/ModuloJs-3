@@ -18,3 +18,14 @@ Esta clase se enfoco en cocnocer sobre los lenguajes de programacion y java scri
 vimos sobre los tipos de datos en js mas a detalle y metodos que nos ayudaran a realizar acciones especificas, ademas de realizar practica con las estructuras de datos y condiciones, haciendo uso de los dintintos operadores, se resolvieron algunos ejercicios.
 ![image](https://github.com/user-attachments/assets/523e90f2-b8f7-40f6-817b-0b624927b4de)
 
+
+# 📚 Clase3: Estructuras de control🚀
+Durante esta clase vimos sobre estructura de datos ciclo while, ciclo for, arrays y como es que los ciclo for se comportan con los arrays, vimos la teoria de qué son y cómo funcionan asi como la estructura de cada uno de los ciclos .
+![image](https://github.com/user-attachments/assets/523e90f2-b8f7-40f6-817b-0b624927b4de)
+
+
+
+
+# 📚 Clase4 : Tipos de dato🚀
+Aordamos sobre las funciones en js como que son, su estructura, tipos de funciones, funcionalidades etc...ademas de resolver problemas relacionados al tema.
+![image](https://github.com/user-attachments/assets/523e90f2-b8f7-40f6-817b-0b624927b4de)
