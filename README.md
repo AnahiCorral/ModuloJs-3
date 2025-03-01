@@ -27,5 +27,16 @@ Durante esta clase vimos sobre estructura de datos ciclo while, ciclo for, array
 
 
 # 📚 Clase4 : Tipos de dato🚀
-Aordamos sobre las funciones en js como que son, su estructura, tipos de funciones, funcionalidades etc...ademas de resolver problemas relacionados al tema.
+Abordamos sobre las funciones en js como que son, su estructura, tipos de funciones, funcionalidades etc...ademas de resolver problemas relacionados al tema.
 ![image](https://github.com/user-attachments/assets/523e90f2-b8f7-40f6-817b-0b624927b4de)
+
+
+# 📚 Clase5 : Objetos en Java Script🚀
+En esta clase profundizamos sobre los obejos en js como su definicion, para que se utilizan, sus ventajas/desventajas y ejemplos con ejercicios
+que involucraron la practica de los objetos, asi mismo los metodos que son utilizados, tambien vimos las diversas caracteristicas clave. 
+
+
+# 📚 Clase6: introduccion al DOM en js🚀
+En esta clase profundizamos sobre los obejos en js como su definicion, para que se utilizan, sus ventajas/desventajas y ejemplos con ejercicios
+que involucraron la practica de los objetos, asi mismo los metodos que son utilizados, tambien vimos las diversas caracteristicas clave. 
+
