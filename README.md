@@ -21,14 +21,12 @@ vimos sobre los tipos de datos en js mas a detalle y metodos que nos ayudaran a 
 
 # 📚 Clase3: Estructuras de control🚀
 Durante esta clase vimos sobre estructura de datos ciclo while, ciclo for, arrays y como es que los ciclo for se comportan con los arrays, vimos la teoria de qué son y cómo funcionan asi como la estructura de cada uno de los ciclos .
-![image](https://github.com/user-attachments/assets/523e90f2-b8f7-40f6-817b-0b624927b4de)
-
-
+![image](https://github.com/user-attachments/assets/42805db6-9c88-4fe8-8539-a5ce04a5a992)
 
 
 # 📚 Clase4 : Tipos de dato🚀
-Abordamos sobre las funciones en js como que son, su estructura, tipos de funciones, funcionalidades etc...ademas de resolver problemas relacionados al tema.
-![image](https://github.com/user-attachments/assets/523e90f2-b8f7-40f6-817b-0b624927b4de)
+Aordamos sobre las funciones en js como que son, su estructura, tipos de funciones, funcionalidades etc...ademas de resolver problemas relacionados al tema.
+![image](https://github.com/user-attachments/assets/e9a40ada-7dba-4f77-a206-c4e4c7cadadf)
 
 
 # 📚 Clase5 : Objetos en Java Script🚀
