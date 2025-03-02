@@ -35,6 +35,6 @@ que involucraron la practica de los objetos, asi mismo los metodos que son utili
 
 
 # 📚 Clase6: introduccion al DOM en js🚀
-En esta clase profundizamos sobre los obejos en js como su definicion, para que se utilizan, sus ventajas/desventajas y ejemplos con ejercicios
-que involucraron la practica de los objetos, asi mismo los metodos que son utilizados, tambien vimos las diversas caracteristicas clave. 
-
+En esta clase abordamos muchos puntos acerca del DOM, fue una clase donde se conocieron nuevos terminos y como utilizar el DOM
+asi como tambien caracteristicas que lo componen. tuvimos practica en IDE probando los diferentes metodos, eventos etc. 
+Algo interesante fue ver la jerarquia del DOM para manejarlo de la mejor manera.
