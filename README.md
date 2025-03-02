@@ -31,10 +31,23 @@ Aordamos sobre las funciones en js como que son, su estructura, tipos de funcion
 
 # 📚 Clase5 : Objetos en Java Script🚀
 En esta clase profundizamos sobre los obejos en js como su definicion, para que se utilizan, sus ventajas/desventajas y ejemplos con ejercicios
-que involucraron la practica de los objetos, asi mismo los metodos que son utilizados, tambien vimos las diversas caracteristicas clave. 
+que involucraron la practica de los objetos, asi mismo los metodos que son utilizados, tambien vimos las diversas caracteristicas clave.
+![image](https://github.com/user-attachments/assets/17e89837-91fd-4fd6-aec0-55be904f75fd)
+
 
 
 # 📚 Clase6: introduccion al DOM en js🚀
 En esta clase abordamos muchos puntos acerca del DOM, fue una clase donde se conocieron nuevos terminos y como utilizar el DOM
 asi como tambien caracteristicas que lo componen. tuvimos practica en IDE probando los diferentes metodos, eventos etc. 
 Algo interesante fue ver la jerarquia del DOM para manejarlo de la mejor manera.
+![image](https://github.com/user-attachments/assets/174e7ed7-9520-41b0-a264-ee3c9c94a9d2)
+
+
+# 📚 Clase7: introduccion al DOM en js🚀
+En esta clase pudimos trabaajar mas a fondo con el dom en js y un proyecto de ejemplo de caso util y muy comun, ademas pusimos en practica los estilos css y html
+![image](https://github.com/user-attachments/assets/a6c973c3-641a-48cd-b89a-0ebae14ca134)
+
+
+# 📚 Clase8: introduccion al DOM en js🚀
+En esta clase seguimos trabajando con el proyecto y asi mismo impelementan do nuevas funciones y arreglando el codigo anterior asi recalcamos bien todo el proceso para que quede bien claro.
+![image](https://github.com/user-attachments/assets/c0a0ff0c-ca1d-406e-8de9-5b27bc614ec9)
