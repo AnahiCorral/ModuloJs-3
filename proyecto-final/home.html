@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Astronomia - Foro</title>
+</head>
+<body>
+    <header>
+        <h1>🌌 Foro de Astronomía</h1>
+    </header>
+
+    <main class="container">
+        <!-- Seccion  bienvenida -->
+        <section class="content">
+            <h2>🔭 Explora el Universo</h2>
+            <p>Comparte tus ideas y aprende más sobre los misterios del cosmos.</p>
+            <div class="image-container">
+                <img src="https://images.pexels.com/photos/3805983/pexels-photo-3805983.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                     alt="Imagen del espacio">
+            </div>
+        </section>
+
+        <!-- Seccion de comentarios -->
+        <section class="comment-container">
+            <h2>💬 Comentarios</h2>
+            <p id="user-info">Comparte tu pensamiento sobre el universo...</p>
+            <textarea id="comment" placeholder="Escribe tu comentario aquí..."></textarea>
+            <button onclick="postComment()">Publicar</button>
+            <section id="comment-section"></section>
+        </section>
+    </main>
+
+    <script src="home.js"></script>
+</body>
+</html>
