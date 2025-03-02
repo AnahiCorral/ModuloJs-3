@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #0a0231;
+    color: white;
+}
+.container {
+    background: #5065c6;
+    padding: 50px;
+    border-radius: 50px;
+    text-align: center;
+    width: 300px;
+}
+.contra-box {
+    background: #0c0f55;
+    padding: 10px;
+    border-radius: 5px;
+}
+input[type="text"] {
+    border: none;
+    background: none;
+    color: white;
+}
+button {
+    background: #03010e;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 5px;
+}
